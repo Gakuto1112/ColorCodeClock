@@ -46,7 +46,6 @@ setTimeout(() => {
 
 	function drawClockHands() {
 		//時計の針を描画する。
-
 		function drawHands(lineLength, lineWidth, value, maxNumber) {
 			context.beginPath();
 			context.lineWidth = lineWidth;
@@ -66,7 +65,7 @@ setTimeout(() => {
 		context.clearRect(0, 0, 400, 400);
 		drawClockBase();
 		drawClockHands();
-}
+	}
 
 	setInterval(() => {
 		const dateTime = new Date();
