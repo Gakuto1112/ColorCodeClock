@@ -5,4 +5,8 @@
 
 暇つぶしに作りました。
 
+（追記）そういえばGitHubでページ公開できるのを思い出したのでリンク貼っておきます。
+
+https://gakuto1112.github.io/ColorCodeClock/
+
 ![カラーコード時計](README_Images/カラーコード時計.jpg)
